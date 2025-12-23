@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DUET",
+  "base_artist": "ZICO",
+  "createdAt": "2025-12-23T07:09:51.302840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Valhalla Calling (feat. Peyton Parrish) [Duet Version]",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/01_Valhalla_Calling_(feat._Peyton_Parrish)_[Duet_Version]_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Valhalla Calling (feat. Peyton Parrish) (Duet Version)",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/02_Valhalla_Calling_(feat._Peyton_Parrish)_(Duet_Version)_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Designated Drinker - A Duet With George Strait",
+      "artist": "Alan Jackson feat. George Strait",
+      "has_synced": true,
+      "path": "select/03_Designated_Drinker_-_A_Duet_With_George_Strait_Alan_Jackson_feat._George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Designated Drinker (A Duet With George Strait)",
+      "artist": "Alan Jackson duet with George Strait",
+      "has_synced": true,
+      "path": "select/04_Designated_Drinker_(A_Duet_With_George_Strait)_Alan_Jackson_duet_with_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani) - Live",
+      "artist": "Blake Shelton feat. Gwen Stefani",
+      "has_synced": true,
+      "path": "select/05_Nobody_But_You_(Duet_with_Gwen_Stefani)_-_Live_Blake_Shelton_feat._Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/06_Nobody_But_You_(Duet_with_Gwen_Stefani)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani) [Acoustic] [feat. Gwen Stefani]",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/07_Nobody_But_You_(Duet_with_Gwen_Stefani)_[Acoustic]_[feat._Gwen_Stefani]_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani) (Acoustic)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/08_Nobody_But_You_(Duet_with_Gwen_Stefani)_(Acoustic)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shiftwork - Duet With George Strait",
+      "artist": "Kenny Chesney feat. George Strait",
+      "has_synced": true,
+      "path": "select/09_Shiftwork_-_Duet_With_George_Strait_Kenny_Chesney_feat._George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shiftwork (Duet With George Strait)",
+      "artist": "Kenny Chesney Duet with George Strait",
+      "has_synced": true,
+      "path": "select/10_Shiftwork_(Duet_With_George_Strait)_Kenny_Chesney_Duet_with_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Somethin' Bad (Duet with Carrie Underwood [Album])",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/11_Somethin'_Bad_(Duet_with_Carrie_Underwood_[Album])_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When the Sun Goes Down (Duet With Uncle Kracker)",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/12_When_the_Sun_Goes_Down_(Duet_With_Uncle_Kracker)_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Who Says You Can't Go Home (Duet with Jennifer Nettles of Sugarland Version)",
+      "artist": "Bon Jovi feat. Jennifer Nettles",
+      "has_synced": true,
+      "path": "select/13_Who_Says_You_Can't_Go_Home_(Duet_with_Jennifer_Nettles_of_Sugarland_Version)_Bon_Jovi_feat._Jennifer_Nettles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Who Says You Can't Go Home (Duet with Jennifer Nettles of Sugarland Version)",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/14_Who_Says_You_Can't_Go_Home_(Duet_with_Jennifer_Nettles_of_Sugarland_Version)_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "因为爱情 Duet With 王菲",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/15_因为爱情_Duet_With_王菲_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Endless Love (Duet With Mariah Carey)",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/16_Endless_Love_(Duet_With_Mariah_Carey)_Luther_Vandross.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Portland, Oregon (Duet With Jack White)",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/17_Portland,_Oregon_(Duet_With_Jack_White)_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DUET",
+      "artist": "ZICO, 幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_DUET_ZICO,_幾田りら.txt"
+    }
+  ]
+}
